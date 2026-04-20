@@ -13,7 +13,6 @@
 
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00D4A0&center=true&vCenter=true&width=600&lines=B.Tech+%E2%80%94+Mathematics+%26+Computing+%7C+Year+3;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computational+Mathematics+%7C+Optimisation;Data+Analytics+%7C+Statistical+Modelling;Building+models+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -126,8 +125,8 @@ class PraveerRaj:
 <a href="https://github.com/prxveer/DA-of-Alogorithm">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=DA-of-Alogorithm&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
 </a>
-<a href="https://github.com/prxveer/Smart-Shelf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Smart-Shelf&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+<a href="https://github.com/prxveer/DSA-Supreme-3.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=DSA-Supreme-3.0&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
 </a>
 
 </div>
@@ -137,12 +136,8 @@ class PraveerRaj:
 <a href="https://github.com/prxveer/Database-Management">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Database-Management&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
 </a>
-<a href="https://github.com/prxveer/emotion-detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=emotion-detector&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
-</a>
-
-<a href="https://github.com/prxveer/Scientific-Computing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Scientific-Computing&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+<a href="https://github.com/prxveer/IDAstar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=IDAstar&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
 </a>
 
 </div>
@@ -167,7 +162,7 @@ class PraveerRaj:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=prxveer&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=00d4a0)
+![Trophies](https://github-profile-trophy.vercel.app/?username=prxveer&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
@@ -185,8 +180,7 @@ class PraveerRaj:
 
 </div>
 
-> **Note:** To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` — see https://github.com/Platane/snk
+> **To enable the snake:** add `.github/workflows/snake.yml` — see https://github.com/Platane/snk
 
 ---
 
