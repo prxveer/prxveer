@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-```python
+python
 class PraveerRaj:
     def __init__(self):
         self.degree   = "B.Tech — Mathematics & Computing (Year 3)"
@@ -28,7 +28,7 @@ class PraveerRaj:
 
     def current_focus(self):
         return "Building interpretable ML systems & exploring optimisation algorithms"
-```
+
 
 - 🎓 Grounded in **mathematical rigour** — linear algebra, optimisation theory, and numerical analysis shape how I approach every problem.
 - 🤖 Passionate about **ML and Deep Learning** — from gradient descent derivations to deploying production-grade models.
