@@ -1,21 +1,12 @@
-<!--
-  ██████╗ ██████╗  █████╗ ██╗   ██╗███████╗███████╗██████╗     ██████╗  █████╗      ██╗
-  ██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝██╔══██╗    ██╔══██╗██╔══██╗     ██║
-  ██████╔╝██████╔╝███████║██║   ██║█████╗  █████╗  ██████╔╝    ██████╔╝███████║     ██║
-  ██╔═══╝ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██╔══██╗    ██╔══██╗██╔══██║██   ██║
-  ██║     ██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗██║  ██║    ██║  ██║██║  ██║╚█████╔╝
-  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00d4a0&height=200&section=header&text=Praveer%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Computational%20Mathematician&descAlignY=58&descSize=16&descColor=4dd9b0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:2d1b69,100:7c3aed&height=220&section=header&text=Praveer%20Raj&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Computational%20Mathematician&descAlignY=58&descSize=16&descColor=c4b5fd&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00D4A0&center=true&vCenter=true&width=600&lines=B.Tech+%E2%80%94+Mathematics+%26+Computing+%7C+Year+3;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computational+Mathematics+%7C+Optimisation;Data+Analytics+%7C+Statistical+Modelling;Building+models+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.Tech+%E2%80%94+Mathematics+%26+Computing+%7C+Year+3;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computational+Mathematics+%7C+Optimisation;Data+Analytics+%7C+Statistical+Modelling;From+equations+to+deployments+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -77,7 +68,10 @@ class PraveerRaj:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **🌐 Web & Backend**
 
@@ -93,6 +87,7 @@ class PraveerRaj:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -112,10 +107,10 @@ class PraveerRaj:
 <div align="center">
 
 <a href="https://github.com/prxveer/Movie-Recommender-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Movie-Recommender-System&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Movie-Recommender-System&theme=midnight-purple&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/prxveer/Machine-learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Machine-learning&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Machine-learning&theme=midnight-purple&hide_border=true&border_radius=12" />
 </a>
 
 </div>
@@ -123,10 +118,10 @@ class PraveerRaj:
 <div align="center">
 
 <a href="https://github.com/prxveer/DA-of-Alogorithm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=DA-of-Alogorithm&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=DA-of-Alogorithm&theme=midnight-purple&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/prxveer/DSA-Supreme-3.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=DSA-Supreme-3.0&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=DSA-Supreme-3.0&theme=midnight-purple&hide_border=true&border_radius=12" />
 </a>
 
 </div>
@@ -134,10 +129,10 @@ class PraveerRaj:
 <div align="center">
 
 <a href="https://github.com/prxveer/Database-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Database-Management&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Database-Management&theme=midnight-purple&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/prxveer/IDAstar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=IDAstar&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=IDAstar&theme=midnight-purple&hide_border=true&border_radius=12" />
 </a>
 
 </div>
@@ -148,11 +143,11 @@ class PraveerRaj:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prxveer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prxveer&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&border_radius=12)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=prxveer&theme=github-dark-blue&hide_border=true&border_radius=12&ring=00d4a0&fire=00d4a0&currStreakLabel=00d4a0)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=prxveer&theme=midnight-purple&hide_border=true&border_radius=12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prxveer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12&title_color=00d4a0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prxveer&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12)
 
 </div>
 
@@ -162,7 +157,7 @@ class PraveerRaj:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=prxveer&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=prxveer&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
@@ -180,15 +175,15 @@ class PraveerRaj:
 
 </div>
 
-> **To enable the snake:** add `.github/workflows/snake.yml` — see https://github.com/Platane/snk
+> **To enable the snake:** create `.github/workflows/snake.yml` in this repo — see https://github.com/Platane/snk
 
 ---
 
-### ✍️ Dev Quote
+### ✍️ Random Dev Quote
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -198,7 +193,7 @@ class PraveerRaj:
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=prxveer&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=prxveer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -208,6 +203,6 @@ class PraveerRaj:
 
 [![](https://visitcount.itsvg.in/api?id=prxveer&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4a0,50:0a3d2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d0015&height=120&section=footer" width="100%"/>
 
 </div>
