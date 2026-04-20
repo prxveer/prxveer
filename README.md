@@ -117,40 +117,84 @@ AI-powered emotion detection web application using NLP inference models. Accepts
 
 # 🛠 Tech Arsenal
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
 ## 🤖 AI / Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /><br>
-<b>Python • TensorFlow • PyTorch • OpenCV</b>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" height="52"/>
 </p>
+
+<p align="center">
+Python • TensorFlow • PyTorch • OpenCV
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="top">
 
 ## 📊 Data Science / Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" /><br>
-<b>Pandas • NumPy • Matplotlib • Scikit-Learn • R</b>
+<img src="https://skillicons.dev/icons?i=python,r&perline=2" height="52"/>
 </p>
+
+<p align="center">
+Pandas • NumPy • Matplotlib • Scikit-Learn • R
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
 
 ## 🌐 Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs" /><br>
-<b>HTML • CSS • JavaScript • TypeScript • React • Node.js • Next.js</b>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs&perline=4" height="52"/>
 </p>
+
+<p align="center">
+HTML • CSS • JavaScript • TypeScript  
+React • Node.js • Next.js
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="top">
 
 ## 🛢 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" /><br>
-<b>MongoDB • MySQL • PostgreSQL • Firebase</b>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=4" height="52"/>
 </p>
+
+<p align="center">
+MongoDB • MySQL • PostgreSQL • Firebase
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
 
 ## ⚙ Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><br>
-<b>Git • GitHub • VS Code • Figma</b>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" height="52"/>
 </p>
+
+<p align="center">
+Git • GitHub • VS Code • Figma
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
