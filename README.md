@@ -16,12 +16,11 @@ AI Engineer • Machine Learning Enthusiast • Data Scientist
 
 ## 🧠 About Me
 
-- 🎓 Strong foundation in **Mathematics, Statistics & Optimisation**
-- 🤖 Focused on **Machine Learning, Deep Learning, NLP**
-- 📊 Turning raw data into **valuable decisions**
-- 🔬 Love **clean code, scalable systems, reproducible workflows**
-- 🚀 Build projects from **idea → training → deployment**
-- 🌍 Seeking **AI / ML internships & collaborations**
+I am an engineer with a strong foundation in Mathematics, Statistics, and Optimisation, specializing in Machine Learning, Deep Learning, and Natural Language Processing. I focus on transforming raw data into meaningful insights and data-driven decisions while building clean, scalable, and reproducible systems. My approach centers on taking projects from concept and model development to full deployment. 
+
+<p align="center">
+<sub><b><span style="color:#00FF7F;">I am currently seeking opportunities for AI/ML internships, research roles, and collaborative projects.</span></b></sub>
+</p>
 
 ---
 
@@ -38,27 +37,65 @@ AI Engineer • Machine Learning Enthusiast • Data Scientist
 
 ---
 
-## ⚡ Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/prxveer/Movie-Recommender-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Movie-Recommender-System&theme=midnight-purple&hide_border=true&border_radius=15"/>
-</a>
+<td width="50%" valign="top">
 
-<a href="https://github.com/prxveer/Machine-learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Machine-learning&theme=midnight-purple&hide_border=true&border_radius=15"/>
-</a>
+### 🍽️ Meal Plan Recommendation System  
 
-<a href="https://github.com/prxveer/Database-Management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Database-Management&theme=midnight-purple&hide_border=true&border_radius=15"/>
-</a>
+`Python` `FastAPI` `Scikit-Learn`
 
-<a href="https://github.com/prxveer/IDAstar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=IDAstar&theme=midnight-purple&hide_border=true&border_radius=15"/>
-</a>
+K-Means clustering on 500+ food items across nutritional dimensions to generate personalized BMI-aligned meal plans. FastAPI backend serves dynamic 30-day recommendations with user satisfaction optimization.
 
-</div>
+🔗 [View Repo](https://github.com/prxveer/Movie-Recommender-System)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📦 Smart Shelf Inventory System  
+
+`Java` `PostgreSQL` `Supabase`
+
+Inventory management platform with normalized relational schema, PL/pgSQL triggers for expiry alerts, and Java JDBC backend for real-time operations. Includes live dashboard for stock classification.
+
+🔗 [View Repo](https://github.com/prxveer/Smart-Shelf)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Robot Path Planning — IDA*  
+
+`Python` `ROS` `OpenCV`
+
+Implemented Iterative Deepening A* pathfinding on large grid environments with memory-efficient optimal traversal. Integrated robotics simulation workflow and visualized movement paths.
+
+🔗 [View Repo](https://github.com/prxveer/IDAstar)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 😊 Emotion Detector AI  
+
+`Python` `Flask` `NLP`
+
+AI-powered emotion detection web application using NLP inference models. Accepts user text input and predicts emotional sentiment through interactive Flask interface.
+
+🔗 [View Repo](https://github.com/prxveer/emotion-detector)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
