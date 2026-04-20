@@ -1,17 +1,22 @@
+<!--
+  ██████╗ ██████╗  █████╗ ██╗   ██╗███████╗███████╗██████╗     ██████╗  █████╗      ██╗
+  ██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝██╔══██╗    ██╔══██╗██╔══██╗     ██║
+  ██████╔╝██████╔╝███████║██║   ██║█████╗  █████╗  ██████╔╝    ██████╔╝███████║     ██║
+  ██╔═══╝ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██╔══██╗    ██╔══██╗██╔══██║██   ██║
+  ██║     ██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗██║  ██║    ██║  ██║██║  ██║╚█████╔╝
+  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm Praveer Raj
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00d4a0&height=200&section=header&text=Praveer%20Raj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Computational%20Mathematician&descAlignY=58&descSize=16&descColor=4dd9b0&animation=fadeIn" width="100%"/>
 
-### Data Scientist · ML Engineer · Computational Mathematician
+</div>
 
-```python
-profile = {
-    "degree":   "B.Tech — Mathematics and Computing (Year 3)",
-    "focus":    ["Machine Learning", "Deep Learning", "Data Science",
-                 "Computational Mathematics", "Data Analytics"],
-    "mantra":   "From equations to deployments — clean, reproducible, impactful."
-}
-```
+<!-- TYPING ANIMATION -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00D4A0&center=true&vCenter=true&width=600&lines=B.Tech+%E2%80%94+Mathematics+%26+Computing+%7C+Year+3;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computational+Mathematics+%7C+Optimisation;Data+Analytics+%7C+Statistical+Modelling;Building+models+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,31 +24,47 @@ profile = {
 
 ## 🧠 About Me
 
-I am a third-year B.Tech student in the **Mathematics and Computing** department, specialising at the intersection of **statistical theory, machine learning, and applied software engineering**. My work spans the full data lifecycle — from mathematical formulation and model development to system integration and data-driven storytelling.
+```python
+class PraveerRaj:
+    def __init__(self):
+        self.degree   = "B.Tech — Mathematics & Computing (Year 3)"
+        self.domains  = [
+            "Machine Learning", "Deep Learning", "NLP",
+            "Computational Mathematics", "Data Analytics",
+            "Statistical Modelling", "Computer Vision"
+        ]
+        self.stack    = ["Python", "PyTorch", "TensorFlow", "scikit-learn", "FastAPI"]
+        self.mantra   = "From equations to deployments — clean, reproducible, impactful."
 
-- 🤖 Deeply invested in **Machine Learning, Deep Learning, and NLP** — designing models that are interpretable, efficient, and generalisable.
-- 📐 Grounded in **Computational Mathematics** — applying optimisation theory, numerical methods, and linear algebra to real-world problem-solving.
-- 📊 Skilled in **Data Analytics and Visualisation** — transforming complex datasets into actionable insights.
-- 🔬 Committed to **rigorous experimentation** and reproducible research practices.
-- 🚀 Passionate about building systems that balance mathematical elegance with engineering pragmatism.
+    def current_focus(self):
+        return "Building interpretable ML systems & exploring optimisation algorithms"
+```
+
+- 🎓 Grounded in **mathematical rigour** — linear algebra, optimisation theory, and numerical analysis shape how I approach every problem.
+- 🤖 Passionate about **ML and Deep Learning** — from gradient descent derivations to deploying production-grade models.
+- 📊 Skilled in **Data Analytics and Visualisation** — turning complex, noisy datasets into clear, actionable narratives.
+- 🔬 Committed to **reproducible research** — clean code, documented experiments, and version-controlled pipelines.
+- 🚀 Builder mindset — I ship end-to-end systems that balance mathematical elegance with engineering pragmatism.
+- 🤝 Open to collaboration on ML research, open-source data tools, and applied AI projects.
 
 ---
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveer-raj-9612b2285)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveersrs@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveer-raj-9612b2285)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveersrs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prxveer)
+
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+**🧬 AI · ML · Data Science**
 
-**AI · ML · Data Science**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -52,7 +73,15 @@ I am a third-year B.Tech student in the **Mathematics and Computing** department
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Web & Backend**
+**⚡ Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**🌐 Web & Backend**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -60,7 +89,8 @@ I am a third-year B.Tech student in the **Mathematics and Computing** department
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Databases & Infrastructure**
+**🗄️ Databases & Infrastructure**
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -68,7 +98,8 @@ I am a third-year B.Tech student in the **Mathematics and Computing** department
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-**Tools & Workflow**
+**🛠️ Tools & Workflow**
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -77,21 +108,112 @@ I am a third-year B.Tech student in the **Mathematics and Computing** department
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=prxveer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=prxveer&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prxveer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prxveer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/prxveer/Movie-Recommender-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Movie-Recommender-System&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+</a>
+<a href="https://github.com/prxveer/Machine-learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Machine-learning&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+</a>
 
-### ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=prxveer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+
+<a href="https://github.com/prxveer/DA-of-Alogorithm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=DA-of-Alogorithm&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+</a>
+<a href="https://github.com/prxveer/Smart-Shelf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Smart-Shelf&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/prxveer/Database-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Database-Management&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+</a>
+<a href="https://github.com/prxveer/emotion-detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=emotion-detector&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+</a>
+
+<a href="https://github.com/prxveer/Scientific-Computing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prxveer&repo=Scientific-Computing&theme=github_dark&hide_border=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0" />
+</a>
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=prxveer&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prxveer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&title_color=00d4a0&icon_color=00d4a0)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=prxveer&theme=github-dark-blue&hide_border=true&border_radius=12&ring=00d4a0&fire=00d4a0&currStreakLabel=00d4a0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prxveer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12&title_color=00d4a0)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=prxveer&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=00d4a0)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prxveer/prxveer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prxveer/prxveer/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prxveer/prxveer/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> **Note:** To enable the snake animation, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` — see https://github.com/Platane/snk
+
+---
+
+### ✍️ Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+### 🔝 Top Contributed Repositories
+
+<div align="center">
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=prxveer&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=prxveer&icon=6&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4a0,50:0a3d2e,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
