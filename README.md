@@ -28,14 +28,20 @@ I am an engineer with a strong foundation in Mathematics, Statistics, and Optimi
 
 ## 🏅 Certifications
 
-<div align="center">
+<p align="center">
 
 | Certification | Issuer |
 |---|---|
 | Fundamentals of Data Analysis | Microsoft |
 | Building a Generative AI Ready Organization | AWS |
+| Developing AI Applications with Python and Flask | IBM |
 
-</div>
+
+</p>
+
+<p align="center">
+🔗 <a href="https://www.linkedin.com/in/praveer-raj-9612b2285/details/certifications/">View All Certifications</a>
+</p>
 
 ---
 
@@ -48,7 +54,9 @@ I am an engineer with a strong foundation in Mathematics, Statistics, and Optimi
 
 ### 🍽️ Meal Plan Recommendation System  
 
-`Python` `FastAPI` `Scikit-Learn`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 K-Means clustering on 500+ food items across nutritional dimensions to generate personalized BMI-aligned meal plans. FastAPI backend serves dynamic 30-day recommendations with user satisfaction optimization.
 
@@ -60,7 +68,9 @@ K-Means clustering on 500+ food items across nutritional dimensions to generate 
 
 ### 📦 Smart Shelf Inventory System  
 
-`Java` `PostgreSQL` `Supabase`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 
 Inventory management platform with normalized relational schema, PL/pgSQL triggers for expiry alerts, and Java JDBC backend for real-time operations. Includes live dashboard for stock classification.
 
@@ -76,7 +86,9 @@ Inventory management platform with normalized relational schema, PL/pgSQL trigge
 
 ### 🤖 Robot Path Planning — IDA*  
 
-`Python` `ROS` `OpenCV`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 Implemented Iterative Deepening A* pathfinding on large grid environments with memory-efficient optimal traversal. Integrated robotics simulation workflow and visualized movement paths.
 
@@ -88,7 +100,9 @@ Implemented Iterative Deepening A* pathfinding on large grid environments with m
 
 ### 😊 Emotion Detector AI  
 
-`Python` `Flask` `NLP`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8E44AD?style=flat-square&logo=openai&logoColor=white"/>
 
 AI-powered emotion detection web application using NLP inference models. Accepts user text input and predicts emotional sentiment through interactive Flask interface.
 
