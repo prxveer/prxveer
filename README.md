@@ -19,7 +19,9 @@ AI Engineer • Machine Learning Enthusiast • Data Scientist
 I am an engineer with a strong foundation in Mathematics, Statistics, and Optimisation, specializing in Machine Learning, Deep Learning, and Natural Language Processing. I focus on transforming raw data into meaningful insights and data-driven decisions while building clean, scalable, and reproducible systems. My approach centers on taking projects from concept and model development to full deployment. 
 
 <p align="center">
-<sub><b><span style="color:#00FF7F;">I am currently seeking opportunities for AI/ML internships, research roles, and collaborative projects.</span></b></sub>
+
+![](https://img.shields.io/badge/Open_to_AI%2FML_Internships_%7C_Research_%7C_Collaboration-00C853?style=for-the-badge&logo=github&logoColor=white)
+
 </p>
 
 ---
